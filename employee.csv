@@ -1,0 +1,5 @@
+name,department,access_level
+Alice,IT,admin
+Bob,HR,user
+Charlie,IT,user
+David,Finance,admin
